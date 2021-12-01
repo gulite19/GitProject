@@ -27,6 +27,7 @@ namespace WorkTest
         private DrawingBrush _gridBrush;
         private void DrawGrid(Grid grid)
         {
+            //add commit
             if (_gridBrush == null)
             {
                 _gridBrush = new DrawingBrush(new GeometryDrawing(

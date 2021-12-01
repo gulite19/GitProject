@@ -1,0 +1,15 @@
+D:\VSProjects\WorkTest\bin\Debug\WorkTest.exe.config
+D:\VSProjects\WorkTest\bin\Debug\WorkTest.exe
+D:\VSProjects\WorkTest\bin\Debug\WorkTest.pdb
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.csprojAssemblyReference.cache
+D:\VSProjects\WorkTest\obj\Debug\MainWindow.g.cs
+D:\VSProjects\WorkTest\obj\Debug\App.g.cs
+D:\VSProjects\WorkTest\obj\Debug\WorkTest_MarkupCompile.cache
+D:\VSProjects\WorkTest\obj\Debug\WorkTest_MarkupCompile.lref
+D:\VSProjects\WorkTest\obj\Debug\MainWindow.baml
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.g.resources
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.Properties.Resources.resources
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.csproj.GenerateResource.cache
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.csproj.CoreCompileInputs.cache
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.exe
+D:\VSProjects\WorkTest\obj\Debug\WorkTest.pdb
